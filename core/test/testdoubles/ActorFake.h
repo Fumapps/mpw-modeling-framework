@@ -1,0 +1,14 @@
+#ifndef DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_ACTORFAKE_H
+#define DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_ACTORFAKE_H
+
+#include "Actor.h"
+
+namespace mpw {
+
+class ActorFake : public Actor {
+
+};
+
+}
+
+#endif //DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_ACTORFAKE_H

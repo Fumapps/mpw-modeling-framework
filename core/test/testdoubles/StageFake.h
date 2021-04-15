@@ -1,0 +1,14 @@
+#ifndef DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_PROPFAKE_H
+#define DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_PROPFAKE_H
+
+#include "Prop.h"
+
+namespace mpw {
+
+class PropFake : public Prop {
+
+};
+
+}
+
+#endif //DE_UNISTUTTGART_ISTE_SQA_MPW_FRAMEWORK_PROPFAKE_H

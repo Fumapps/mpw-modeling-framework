@@ -1,0 +1,9 @@
+
+#ifndef DE_UNISTUTTGART_FRAMEWORK_OBSERVABLELISTPROPERTIES_H
+#define DE_UNISTUTTGART_FRAMEWORK_OBSERVABLELISTPROPERTIES_H
+
+#include "ObservableObjectContainmentListProperty.hpp"
+#include "ObservableObjectReferenceListProperty.hpp"
+#include "ObservablePrimitiveListProperty.hpp"
+
+#endif //DE_UNISTUTTGART_FRAMEWORK_OBSERVABLELISTPROPERTIES_H

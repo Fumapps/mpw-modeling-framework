@@ -1,0 +1,8 @@
+
+#ifndef DE_UNISTUTTGART_FRAMEWORK_SIMPLELISTPROPERTIES_H
+#define DE_UNISTUTTGART_FRAMEWORK_SIMPLELISTPROPERTIES_H
+
+#include "SimpleObjectContainmentListProperty.hpp"
+#include "SimpleObjectReferenceListProperty.hpp"
+
+#endif //DE_UNISTUTTGART_FRAMEWORK_SIMPLELISTPROPERTIES_H
